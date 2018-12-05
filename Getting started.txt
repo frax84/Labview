@@ -1,0 +1,14 @@
+Per aggiungere un nuovo progetto Labview a questo folder:
+
+- Creare una directory per il nuovo progetto e copiarlo nella directory Labview.git
+
+- Creare il nuovo progetto Labview e salvarlo nella directory sopra creata
+
+- Aggiungere i file *.aliases e *.lvlps all'ignore list di Tortoise SVN. Per eseguire questa operazione cliccare con il destro sul file, TortoiseSVN>Add to ignore list> Add recursively.
+
+NOTA:
+In data 05-12-2018 questo step è da saltare in quanto il comando di ignore da problemi nei commit se si usa GitHub.
+
+- Separare il codice sorgente dal codice compilato. Questa operazione si fa in due step:
+1) Da Labview: Tools>Options>Environment>Separate compiled code from new files
+2) Dal file di progetto dentro Labview: Destro del mouse>Properties>Project, spuntare la voce "Separate compiled code from new project items", cliccare su Mark Existing Items, selezionare tutti i files e premere su "Mark selected items".

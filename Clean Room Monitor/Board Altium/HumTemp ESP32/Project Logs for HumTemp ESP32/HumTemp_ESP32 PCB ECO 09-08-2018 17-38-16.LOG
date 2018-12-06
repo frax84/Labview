@@ -1,0 +1,11 @@
+Added Component: Designator=U2(WSON6)
+Added Pin To Net: NetName=SDA Pin=U2-1
+Added Pin To Net: NetName=VDD3.3 Pin=U2-2
+Added Pin To Net: NetName=VDD3.3 Pin=U2-2
+Added Pin To Net: NetName=VDD3.3 Pin=U2-3
+Added Pin To Net: NetName=VDD3.3 Pin=U2-3
+Added Pin To Net: NetName=INT Pin=U2-4
+Added Pin To Net: NetName=VDD3.3 Pin=U2-5
+Added Pin To Net: NetName=SCL Pin=U2-6
+Added Member To Class: ClassName=HumTemp_ESP32 Member=Component U2 HDC2080
+Added Room: Name=HumTemp_ESP32

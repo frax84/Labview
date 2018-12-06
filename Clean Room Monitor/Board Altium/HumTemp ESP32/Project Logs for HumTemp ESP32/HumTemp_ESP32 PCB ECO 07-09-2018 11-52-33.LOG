@@ -1,0 +1,19 @@
+Added Component: Designator=C4(CAPCERAMIC_SMD_2012M_0805I)
+Added Component: Designator=C5(CAPCERAMIC_SMD_2012M_0805I)
+Added Component: Designator=U4(SOT95P237X112-3M)
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VBATT Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VBATT Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=ADC_REF Pin=C5-2
+Added Pin To Net: NetName=ADC_REF Pin=U1-14
+Added Pin To Net: NetName=ADC_REF Pin=U4-2
+Added Net: Name=ADC_REF
+Added Pin To Net: NetName=ADC_TEST Pin=R1-1
+Added Pin To Net: NetName=ADC_TEST Pin=R2-2
+Added Pin To Net: NetName=ADC_TEST Pin=U1-15
+Added Net: Name=ADC_TEST
+Added Member To Class: ClassName=HumTemp_ESP32 Member=Component C4 SMD Capacitor
+Added Member To Class: ClassName=HumTemp_ESP32 Member=Component C5 SMD Capacitor
+Added Member To Class: ClassName=HumTemp_ESP32 Member=Component U4 REF3312

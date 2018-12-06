@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VDD3.3 Pin=CONN1-1
+Removed Pin From Net: NetName=VDD3.3 Pin=CONN1-1
+Removed Member From Class: ClassName=HumTemp_ESP32 Member=CONN1
+Added Component: Designator=H1(18650_BATTERYHOLDER)
+Added Pin To Net: NetName=VDD3.3 Pin=H1-2
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=NetH1_1 Pin=SW1-4
+Added Net: Name=NetH1_1
+Added Member To Class: ClassName=HumTemp_ESP32 Member=Component H1 18650 Battery holder - Keystone
+Added Room: Name=HumTemp_ESP32

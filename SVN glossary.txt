@@ -1,0 +1,18 @@
+"C"
+- Checkout: it refers to the action of creating a working copy of a repository on your local system.
+- Commit: it refers to the action of sending changes from your working copy to the repository.
+
+"H"
+- Hook script: it is ap rogram triggered by some repository event (i.e. creation of a new revision or modification of an unversioned property).
+
+"R"
+- Repository: it is a collection of files, usually on a host server (i.e. GitHub, NAS, etc.) organized to allow SVN (Sub Version Number) and hence keeping track of changes in the file structure and content kept in the repository itself. 
+
+"S"
+- Shelving: it refers to the action of storing local changes on a shelve to prevent committing of those changes on the repository. It is often used when it is needed to work on an urgent issue while working on something else. In such a case shelving what you were doing before that urgent issue allows to hide the not committable changes to prevent breaking the code.
+
+"U"
+- Unshelving: it's the action opposed to "Shelving"
+
+"W"
+- Working copy: it is an ordinary directory tree on your local system, containing a collection of files. 

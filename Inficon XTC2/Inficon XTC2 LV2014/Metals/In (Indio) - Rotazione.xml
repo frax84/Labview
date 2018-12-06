@@ -1,0 +1,132 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>14.0.1</Version>
+<Cluster>
+<Name>Evaporator parameters</Name>
+<NumElts>30</NumElts>
+<DBL>
+<Name>Rise Time 1 [mm:ss]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Soak Power 1 [%]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Soak Time 1 [mm:ss]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Rise Time 2 [mm:ss]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Soak Power 2 [%]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Soak Time 2 [mm:ss]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<EW>
+<Name>Shutter Delay</Name>
+<Choice>No</Choice>
+<Choice>Yes</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>New Rate</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Rate Ramp Time [mm:ss]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Idle Ramp [mm:ss]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Idle Power [%]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<EW>
+<Name>Time Power</Name>
+<Choice>No</Choice>
+<Choice>Yes</Choice>
+<Val>0</Val>
+</EW>
+<U8>
+<Name>Xtal Switch S</Name>
+<Val>0</Val>
+</U8>
+<U8>
+<Name>Xtal Switch Q</Name>
+<Val>0</Val>
+</U8>
+<DBL>
+<Name>Tool Factor 1</Name>
+<Val>150.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Tool Factor 2</Name>
+<Val>150.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Deposition Rate [≈/s]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Final Thickness [k≈]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Thickness Spt [k≈]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Density [g/cm3]</Name>
+<Val>7.30000000000000</Val>
+</DBL>
+<DBL>
+<Name>Z-Ratio</Name>
+<Val>0.84100000000000</Val>
+</DBL>
+<U8>
+<Name>Sensor</Name>
+<Val>1</Val>
+</U8>
+<U8>
+<Name>Source</Name>
+<Val>1</Val>
+</U8>
+<U8>
+<Name>Crucible</Name>
+<Val>1</Val>
+</U8>
+<DBL>
+<Name>Control Gain [%]</Name>
+<Val>1.00000000000000E-2</Val>
+</DBL>
+<DBL>
+<Name>Control TC [s]</Name>
+<Val>0.10000000000000</Val>
+</DBL>
+<DBL>
+<Name>Control DT [s] 2</Name>
+<Val>0.10000000000000</Val>
+</DBL>
+<DBL>
+<Name>Max Power</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<U8>
+<Name>Sample</Name>
+<Val>2</Val>
+</U8>
+<DBL>
+<Name>Hold Time [mm:ss]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+</LVData>

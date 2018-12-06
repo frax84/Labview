@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [HumTemp ESP32.PrjPcb]
+   Generated File[HumTemp_ESP32.TXT]
+   Generated File[HumTemp_ESP32.LDP]
+   Generated File[HumTemp_ESP32.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:29:58 On 10/09/2018

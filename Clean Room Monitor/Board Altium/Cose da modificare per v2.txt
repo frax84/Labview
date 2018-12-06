@@ -1,0 +1,7 @@
+- Silkscreen -> il sensore si chiama HDC2080 e non HDC8020 come segnato
+
+- LA PINNATURA DELL'ESP32 PICO KIT VA FLIPPATA!!!!! (Mannaggia la vacca!)
+
+- Il footprint del HDC2080 è meglio farlo con i pad più lunghi...male non fa ed è molto più facile da saldare dopo
+
+- Se voglio leggere la tensione della batteria devo attaccare il partitore R1-R2 a VBatt. In questo modo non sarà "filtrato" dal regolatore di tensione. Controllare se posso attaccarlo all'altro lato dell'interruttore SPDT

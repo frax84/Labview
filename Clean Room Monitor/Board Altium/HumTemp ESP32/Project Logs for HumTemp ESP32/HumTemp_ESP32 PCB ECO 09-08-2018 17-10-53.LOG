@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=CONN? NewDesignator=CONN1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Net Name : Old Net Name=NetCONN?_0 New Net Name=NetCONN1_0
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR1_1
+Added Member To Class: ClassName=HumTemp_ESP32 Member=Component R1 SMD Resistor
+Added Member To Class: ClassName=HumTemp_ESP32 Member=Component U2 HDC2080

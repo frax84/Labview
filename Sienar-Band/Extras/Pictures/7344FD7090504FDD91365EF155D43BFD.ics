@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+PRODID:-//Certain Software//NONSGML v4.12//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:(GMT+02:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+PRIORITY:5
+CLASS:PUBLIC
+UID:7344FD7090504FDD91365EF155D43BFD
+DTSTART;TZID="GMT+02:00":20170601T110000
+DTEND;TZID="GMT+02:00":20170601T120000
+DTSTAMP;VALUE=DATE:20170530
+SUMMARY:Tips and Tricks to Wiring and Noise Considerations   (Italian)
+DESCRIPTION:What:\nTips and Tricks to Wiring and Noise Considerations   (It
+ alian)When:\nJun 01, 2017\n11:00 AM – 12:00 PM (GMT+02:00) Amsterdam, Be
+ rlin, Bern, Rome, Stockholm, Vienna\nAdmission begins 10 minutes prior t
+ o the event. At that time:\n1. Click on the following URL or enter it in
+  your browser:http://sine.ni.com/nievents/app/certainJoin/p/scoId/243276
+ 5583/adobeServer/NIE/lang/it\n2. Log in to your ni.com profile. You must
+  have your login details to attend this event.\n3. If you have problems 
+ joining the webinar please clear your browser’s cache (CTRL + F5).\nIf y
+ ou have any questions please contact webevents@ni.com
+X-ALT-DESC;FMTTYPE=text/html:<div><strong>What</strong>:<br />\nTips and Tr
+ icks to Wiring and Noise Considerations   (Italian)<br /><br /><strong>W
+ hen</strong>:<br />\nJun 01, 2017<br />\n11:00 AM – 12:00 PM (GMT+02:00)
+  Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna<br /><br />\nAdmission
+  begins 10 minutes prior to the event. At that time:<br />\n1. Click on 
+ the following URL or enter it in your browser:<br /><a href="http://sine
+ .ni.com/nievents/app/certainJoin/p/scoId/2432765583/adobeServer/NIE/lang
+ /it">http://sine.ni.com/nievents/app/certainJoin/p/scoId/2432765583/adob
+ eServer/NIE/lang/it</a><br />\n2. Log in to your ni.com profile. You mus
+ t have your login details to attend this event.<br />\n3. If you have pr
+ oblems joining the webinar please clear your browser’s cache (CTRL + F5)
+ .<br /><br />\nIf you have any questions please contact <a href="mailto:
+ webevents@ni.com">webevents@ni.com</a><br />
+LOCATION:Webinar
+END:VEVENT
+END:VCALENDAR

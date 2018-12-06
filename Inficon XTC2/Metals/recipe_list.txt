@@ -1,0 +1,17 @@
+None
+Al (Alluminio) - Rotazione
+Al (Alluminio) - Fisso
+Ag (Argento) - Fisso
+Au (Oro) - Rotazione
+Au (Oro) - Fisso
+In (Indio) - Rotazione
+In (Indio) - Fisso
+Cr (Cromo) - Rotazione
+Cr (Cromo) - Fisso
+Cu (Rame) - Rotazione
+Cu (Rame) - Fisso
+Costantana (Cu 55% ; Ni 45%) - Fisso
+Ge (Germanio) - Fisso
+Mo (Molibdeno) - Rotazione
+Mo (Molibdeno) - Fisso
+Pd (Palladio) - Fisso

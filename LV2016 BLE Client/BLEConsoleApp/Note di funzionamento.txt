@@ -1,0 +1,5 @@
+I collegamenti ai file batch che eseguono e chiudono il BLE server presenti in questa cartella sono necessari come workaround per eseguire gli stessi file batch come amministratore.
+In sostanza:
+1) Si crea il file batch con i comandi che si vogliono eseguire
+2) Si crea un collegamento al file batch
+3) Nelle impostazioni del collegamento si imposta "Esegui come amministratore"

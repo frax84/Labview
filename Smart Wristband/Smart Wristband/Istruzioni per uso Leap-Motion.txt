@@ -1,0 +1,4 @@
+1) Installare software proprietario Leap Motion
+2) Inserire il file "Labview.exe.config" presente in questa cartella nel percorso dove è presente l'eseguibile di Labview
+3) Riavviare Labview
+4) Enjoy!

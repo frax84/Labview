@@ -1,0 +1,1 @@
+taskkill /F /IM "NI Bluetooth LE Driver.exe"
